@@ -1,6 +1,8 @@
 # UAS-PBO
 PEMOGRAMAN BERORIENTASI OBJEK
 
+KITA MEMBUAT "SYSTEM PENDAFTARAN MAHASISWA BARU KAMPUS XYZ"
+
 Anggota Kelompok:
 1. Romy Nur Widianto Daalah
 2. Mico Aditya Virmando
