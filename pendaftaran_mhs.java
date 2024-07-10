@@ -33,8 +33,8 @@ public class pendaftaran_mhs extends javax.swing.JFrame {
         initComponents();
         loadData();
     }
-    
-    private void loadData() {
+    //Load data dari database
+   private void loadData() {
         try {
             Class.forName(JDBC_DRIVER);
             Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
@@ -69,7 +69,7 @@ public class pendaftaran_mhs extends javax.swing.JFrame {
             e.printStackTrace();
         }
     }
-
+    //Save data ke dalam database
     private void saveData() {
         try {
             Class.forName(JDBC_DRIVER);
