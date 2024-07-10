@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Romy
+ *
  */
 public class pendaftaran_mhs extends javax.swing.JFrame {
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
